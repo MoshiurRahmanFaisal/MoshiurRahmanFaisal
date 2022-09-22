@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=moshiurrahmanfaisal&show_icons=true&theme=dark&locale=en" alt="moshiurrahmanfaisal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiurrahmanfaisal&theme=dark" alt="moshiurrahmanfaisal" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiurrahmanfaisal&theme=dark" alt="moshiurrahmanfaisal" /></p>
 
