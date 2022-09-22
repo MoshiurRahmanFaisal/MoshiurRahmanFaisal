@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moshiurrahmanfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moshiurrahmanfaisal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/moshiur-rahman-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="moshiur-rahman-faisal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/moshiur-rahman-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13519443/moshiur-rahman-faisal" height="30" width="40" /></a>
 <a href="https://kaggle.com/moshiurrahmanfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moshiurrahmanfaisal" height="30" width="40" /></a>
 <a href="https://medium.com/@moshiur.faisal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moshiur.faisal01" height="30" width="40" /></a>
 </p>
