@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Passionate about Machine Learning, Deep Learning and Natural Language Processing</h3>
+<h2 align="center">Passionate about Machine Learning, Deep Learning and Natural Language Processing</h3>
 
 - 🔭 I’m currently working on **Computer Vision**
 
