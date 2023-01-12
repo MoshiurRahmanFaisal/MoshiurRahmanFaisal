@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h2 align="center">Passionate about Machine Learning, Deep Learning and NLP</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working as an **AI Innovation Specialist**
 
 - 👯 I’m looking to collaborate on **NLP Projects**
 
