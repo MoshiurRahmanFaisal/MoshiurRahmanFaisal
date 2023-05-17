@@ -1,19 +1,34 @@
+<div align="center">
+  <img height="150" src="https://github.com/MoshiurRahmanFaisal.png"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/moshiurrahmanfaisal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="moshiur.faisal01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@moshiur.faisal01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h2 align="center">Passionate about Machine Learning, Deep Learning and NLP</h3>
 
-- 🔭 I’m currently working as an **AI Innovation Specialist**
+###
 
-- 👯 I’m looking to collaborate on **NLP Projects**
+<h3 align="center">👩‍💻  Passionate about Machine Learning, Deep Learning, and NLP</h3>
 
-- 📫 How to reach me **moshiur.faisal01@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moshiurrahmanfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moshiurrahmanfaisal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13519443/moshiur-rahman-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:13519443" height="30" width="40" /></a>
-<a href="https://kaggle.com/moshiurrahmanfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moshiurrahmanfaisal" height="30" width="40" /></a>
-<a href="https://medium.com/@moshiur.faisal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moshiur.faisal01" height="30" width="40" /></a>
-</p>
+<p align="left">I'm  from Dhaka, Bangladesh. <br><br>- 🔭 I’m working as AI Innovation Specialist at Robi Axiata Ltd.<br>- 👯 I’m looking to collaborate on NLP Projects.<br>- ⚡ In my free time, I play Valorant.</p>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
