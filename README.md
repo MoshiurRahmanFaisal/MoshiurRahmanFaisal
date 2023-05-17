@@ -73,8 +73,4 @@
   <img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
- <img src="[https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/platane/snk/output/github-contribution-grid-snake-dark.svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)" />
-  
-  <img src="https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/output/snake.svg" alt="Snake animation" />
-###
+
