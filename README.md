@@ -74,11 +74,7 @@
 </div>
 
 ###
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk@v2/MoshiurRahmanFaisal/output/github-contribution-grid-snake-dark.svg
-    "
-  />
+ <img src="[https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/platane/snk/output/github-contribution-grid-snake-dark.svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)" />
+  
+  <img src="https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/output/snake.svg" alt="Snake animation" />
 ###
