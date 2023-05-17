@@ -8,11 +8,14 @@
   <a href="https://linkedin.com/in/moshiurrahmanfaisal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="moshiur.faisal01@gmail.com" target="_blank">
+  <a href="mailto:moshiur.faisal01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@moshiur.faisal01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://www.facebook.com/MoshiurRahmanFaisal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
 
@@ -69,5 +72,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoshiurRahmanFaisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+###
+
+<img src="https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/output/snake.svg" alt="Snake animation" />
 
 ###
