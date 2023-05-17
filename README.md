@@ -3,6 +3,11 @@
 </div>
 
 ###
+<h1 align="center">Hi 👋, I'm Faisal</h1>
+
+###
+
+
 
 <div align="center">
   <a href="https://linkedin.com/in/moshiurrahmanfaisal" target="_blank">
@@ -15,10 +20,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hi 👋, I'm Faisal</h1>
 
 ###
 
