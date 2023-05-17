@@ -75,8 +75,6 @@
 
 ###
 
-###
-
 <img src="https://raw.githubusercontent.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/output/snake.svg" alt="Snake animation" />
 
 ###
