@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  from Dhaka, Bangladesh.<br>- 🔭 I’m working as AI Innovation Specialist at Robi Axiata Ltd.<br>- 🤝 I’m looking to collaborate on NLP Projects.<br>- ⚡ In my free time, I play Valorant.</p>
+<p align="left">I'm  from Dhaka, Bangladesh.<br>- 🔭 I’m working as an AI Innovation Specialist at Robi Axiata Ltd.<br>- 🤝 I’m looking to collaborate on NLP Projects.<br>- ⚡ In my free time, I play Valorant.</p>
 
 ###
 
