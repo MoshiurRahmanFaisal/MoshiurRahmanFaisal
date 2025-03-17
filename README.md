@@ -73,5 +73,3 @@
 </div>
 
 ###
-  
-  ![Snake animation](https://github.com/MoshiurRahmanFaisal/MoshiurRahmanFaisal/blob/output/github-contribution-grid-snake.svg)
