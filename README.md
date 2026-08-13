@@ -1,75 +1,81 @@
 <div align="center">
-  <img height="150" src="https://github.com/MoshiurRahmanFaisal.png"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=200&section=header&text=Hi%20👋,%20I'm%20Faisal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Data%20Science%20|%20NLP%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
 
-###
-
 <div align="center">
-  <a href="https://www.facebook.com/MoshiurRahmanFaisal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
   <a href="https://linkedin.com/in/moshiurrahmanfaisal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"/>
   </a>
   <a href="mailto:moshiur.faisal01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"/>
   </a>
   <a href="https://medium.com/@moshiur.faisal01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"/>
+  </a>
+  <a href="https://www.facebook.com/MoshiurRahmanFaisal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"/>
   </a>
 </div>
 
-###
+<br/>
 
-<h1 align="center">Hi 👋, I'm Faisal</h1>
+## 👨‍💻 About Me
 
-###
+- 🏢 Working as **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Bangladesh
+- 🔭 Focused on production ML engineering, geospatial analytics, telecom data pipelines, and NLP research
+- 🌍 Based in Dhaka, Bangladesh — working toward relocation to Australia for postgraduate research
+- 📚 Research interest in **low-resource and Bengali/Banglish NLP**
+- 🎓 BSc in Computer Science and Engineering, North South University (Cum Laude)
+- 🤝 Open to collaborating on NLP and applied ML projects
+- ⚡ In my free time, I play Valorant
 
-<h3 align="center">👩‍💻  Passionate about Machine Learning, Deep Learning, and NLP</h3>
+<br/>
 
-###
-
-<p align="left">I'm  from Dhaka, Bangladesh.<br>- 🔭 I'm working as an Associate Manager (Senior Associate), AI & Data Science at Robi Axiata PLC.<br>- 🤝 I'm looking to collaborate on NLP Projects.<br>- ⚡ In my free time, I play Valorant.</p>
-
-###
-
-<h3 align="left">🛠 Language and Tools :</h3>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"      height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
+
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,html" alt="core languages"/>
+
+**Data & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas,sklearn,tensorflow,opencv" alt="data and ml"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle" alt="databases"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,firebase,ubuntu" alt="tools"/>
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=ai,ps,xd" alt="design"/>
+
 </div>
 
-###
+<br/>
 
-<h3 align="left">🔥  My Stats :</h3>
-
-###
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoshiurRahmanFaisal&hide_title=false&hide_rank=false&show_icons=true&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoshiurRahmanFaisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoshiurRahmanFaisal&show_icons=true&theme=radical&hide_border=true&count_private=false" height="165" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoshiurRahmanFaisal&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="languages graph"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&theme=radical&hide_border=true&mode=daily" alt="streak graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoshiurRahmanFaisal&theme=radical&no-frame=true&row=1&column=6" alt="trophy graph"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=100&section=footer" width="100%"/>
