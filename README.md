@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=200&section=header&text=Hi%20👋,%20I'm%20Faisal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Data%20Science%20|%20NLP%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Faisal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20NLP%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -37,25 +37,24 @@
 
 <div align="left">
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,html" alt="core languages"/>
-
-**Data & ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pandas,sklearn,tensorflow,opencv" alt="data and ml"/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,oracle" alt="databases"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,firebase,ubuntu" alt="tools"/>
-
-**Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=ai,ps,xd" alt="design"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="45" alt="python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="45" alt="java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="45" alt="html5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="45" alt="pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="45" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="45" alt="tensorflow"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" width="45" alt="opencv"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="45" alt="mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="45" alt="oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="45" alt="git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="45" alt="docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="45" alt="vscode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="45" alt="jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="45" alt="firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="45" alt="ubuntu"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="45" alt="illustrator"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="45" alt="photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="45" alt="xd"/>
 
 </div>
 
