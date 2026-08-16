@@ -25,7 +25,7 @@
 
 - 🏢 Working as **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Bangladesh
 - 🔭 Focused on production ML engineering, geospatial analytics, telecom data pipelines, and NLP research
-- 🌍 Based in Dhaka, Bangladesh — working toward relocation to Australia for postgraduate research
+- 🌍 Based in Dhaka, Bangladesh
 - 📚 Research interest in **low-resource and Bengali/Banglish NLP**
 - 🎓 BSc in Computer Science and Engineering, North South University (Cum Laude)
 - 🤝 Open to collaborating on NLP and applied ML projects
