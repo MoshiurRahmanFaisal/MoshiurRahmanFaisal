@@ -41,12 +41,18 @@ I'm an **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Banglade
 
 ---
 
-## 📄 Selected Publications
+## 📄 Publications
 
-- **Understanding Cross-Lingual Model Behavior in Mental Health NLP: Evidence from English–Bengali Transformer Models** — *Annals of Data Science*, 2026 · introduces the **BMHD** bilingual mental health dataset
-- **Context-aware data cleaning** — *SN Computer Science*, 2025
-- **Bengali/Banglish emotion detection dataset** — *Data in Brief*, 2024
-- **Banglish text classification** — *NAACL 2022, DeepLo Workshop*
+- **[J.3]** **Understanding Cross-Lingual Model Behavior in Mental Health NLP: Evidence from English–Bengali Transformer Models**<br/>
+  *Annals of Data Science*, 2026 · [DOI](https://doi.org/10.1007/s40745-026-00743-y)
+- **[J.2]** **Context-Aware Data Cleaning: Optimizing Bengali Text for Contextual Text Classification**<br/>
+  *SN Computer Science*, 6(5), 2025 · [DOI](https://doi.org/10.1007/s42979-025-03891-9)
+- **[J.1]** **Bengali & Banglish: A Monolingual Dataset for Emotion Detection in Linguistically Diverse Contexts**<br/>
+  *Data in Brief*, 55, 2024 · [DOI](https://doi.org/10.1016/j.dib.2024.110760)
+- **[C.1]** **Alternative Non-BERT Model Choices for the Textual Classification in Low-Resource Languages and Environments**<br/>
+  *DeepLo Workshop @ NAACL 2022*, ACL · [DOI](https://doi.org/10.18653/v1/2022.deeplo-1.20)
+
+<sub>J = Journal · C = Conference</sub>
 
 ---
 
