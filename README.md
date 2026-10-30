@@ -52,34 +52,30 @@ I'm an **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Banglade
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,bash&theme=dark" alt="languages"/>
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Hive_SQL-FDEE21?style=flat-square&logo=apachehive&logoColor=black" height="24"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="24"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,bash,pytorch,tensorflow,sklearn,opencv,aws,docker,git,linux,vscode&perline=13" alt="tech stack"/>
 
-**ML & NLP**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ml"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="24"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" height="24"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" height="24"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/Hive_SQL-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" height="26"/> <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" height="26"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="26"/>
 
-**Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode&theme=dark" alt="tools"/>
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="24"/>
+</div>
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Pulse
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoshiurRahmanFaisal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=1877F2&icon_color=58A6FF" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoshiurRahmanFaisal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&title_color=1877F2" height="170" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&theme=tokyonight&hide_border=true&border_radius=12&ring=1877F2&fire=FF6B35&currStreakLabel=1877F2" height="170" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoshiurRahmanFaisal&theme=tokyo-night&hide_border=true&radius=12&area=true&color=58A6FF&line=1877F2&point=FFFFFF" width="100%" alt="Contribution graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MoshiurRahmanFaisal&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
