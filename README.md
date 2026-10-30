@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=200&section=header&text=Moshiur%20Rahman%20Faisal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20NLP%20Researcher&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:12100E&height=200&section=header&text=Moshiur%20Rahman%20Faisal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%C2%B7%20Data%20Science%20%C2%B7%20NLP%20Research&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1877F2&center=true&vCenter=true&width=600&lines=Building+production+ML+at+telecom+scale;Researching+low-resource+%26+Bengali%2FBanglish+NLP;Turning+messy+data+into+decisions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1877F2&center=true&vCenter=true&width=600&lines=Building+production+ML+at+telecom+scale;Researching+low-resource+Bengali%2FBanglish+NLP;Turning+messy+data+into+decisions" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -68,14 +68,18 @@ I'm an **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Banglade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoshiurRahmanFaisal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=1877F2&icon_color=58A6FF" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoshiurRahmanFaisal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&title_color=1877F2" height="170" alt="Top languages"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub stats"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&theme=tokyonight&hide_border=true&border_radius=12&ring=1877F2&fire=FF6B35&currStreakLabel=1877F2" height="170" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&theme=tokyonight&hide_border=true&border_radius=12&ring=1877F2&fire=FF6B35&currStreakLabel=1877F2" height="165" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoshiurRahmanFaisal&theme=tokyo-night&hide_border=true&radius=12&area=true&color=58A6FF&line=1877F2&point=FFFFFF" width="100%" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg"/>
+  <img src="./profile/snake.svg" width="100%" alt="Snake eating my contributions"/>
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MoshiurRahmanFaisal&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+<sub>🐍 A snake eating my contribution graph, refreshed daily.</sub>
 
 </div>
 
