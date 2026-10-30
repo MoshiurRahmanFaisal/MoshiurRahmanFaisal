@@ -69,8 +69,6 @@ I'm an **Associate Manager, AI & Data Science** at **Robi Axiata PLC**, Banglade
 <div align="center">
 
 <img src="./profile/stats.svg" height="165" alt="GitHub stats"/>
-<img src="./profile/top-langs.svg" height="165" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=MoshiurRahmanFaisal&theme=tokyonight&hide_border=true&border_radius=12&ring=1877F2&fire=FF6B35&currStreakLabel=1877F2" height="165" alt="GitHub streak"/>
 
 <picture>
